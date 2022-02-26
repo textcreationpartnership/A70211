@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Here is a true and just account of a most horrid and bloody plot conspired against His most sacred Majesty and His royal Highnes by the wicked contrivances of Colonel John Rumsay, Richard Nelthorp, Edward Wade, Richard Goodenough, Captain Walcot, William Thompson, James Burton, and William Hone since which time there is an account that Colonel John Rumsay is taken, and hath been upon his examination.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70211</idno>
+            <idno type="STC">Wing H1547AB</idno>
+            <idno type="STC">ESTC R40972</idno>
+            <idno type="EEBO-CITATION">19539790</idno>
+            <idno type="OCLC">ocm 19539790</idno>
+            <idno type="VID">109082</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70211)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109082)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1689:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Here is a true and just account of a most horrid and bloody plot conspired against His most sacred Majesty and His royal Highnes by the wicked contrivances of Colonel John Rumsay, Richard Nelthorp, Edward Wade, Richard Goodenough, Captain Walcot, William Thompson, James Burton, and William Hone since which time there is an account that Colonel John Rumsay is taken, and hath been upon his examination.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Re-printed by the heir of Andrew Anderson ...,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rumsey, John.</term>
+               <term>Nelthorpe, Richard, d. 1685.</term>
+               <term>Wade, Edward.</term>
+               <term>Goodenough, Richard, fl. 1686.</term>
+               <term>Thompson, Willliam, 17th cent.</term>
+               <term>Burton, James, 17th cent.</term>
+               <term>Hone, William, d. 1683.</term>
+               <term>Rye House Plot, 1683.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:109082:1"/>
+            <pb facs="tcp:109082:1"/>
+            <head>Here is a true and juſt account of a moſt HORRID And BLOODY PLOT, Conſpired againſt his moſt Sacred MAJESTY And his Royal HIGHNES <hi>By the wicked Contrivances of Colonel</hi> John Rumſay, Richard Nelthorp, Ed<g ref="char:EOLhyphen"/>ward Wade, Richard Goodenough, <hi>Captain</hi> Walcot, William Thompſon, James Burton, and William Hone.</head>
+            <head type="sub">Since which time there is an account that Colonel <hi>John Rumſay</hi> is taken, and hath been upon his Examination.</head>
+            <p>NOtwithſtanding the unparaleld clemency, of our moſt Gracious So<g ref="char:EOLhyphen"/>vereign, <hi>Charles</hi> the Second, by the Grace of God, King of <hi>England, Scotland, France,</hi> and <hi>Ireland,</hi> Defender of the Faith. Such is the inſatiate deſire of never ſatisfied malignant Spirits, that they cannot be contented to live peaceably under the Government of a renowned Prince, the very pattern of pity, and mercy, but moſt wickedly, and maliciouſly conſpire, and contrive the death of their Prince, the ruine of the Nation, and the loſs of their own Souls, as may appear by the following lines, which give perfect teſtimony of the hor<g ref="char:EOLhyphen"/>rid deſign and bloody Plot, deſigned to be carried on by the wicked con<g ref="char:EOLhyphen"/>trivance of theſe Barbarous and Inhumane Wretches. Namely <hi>John Rumſay,</hi> Colonel, <hi>Richard Rumhold</hi> Miniſter, <hi>Richard Nelthorp</hi> Eſquire, <hi>Edward Wade</hi> Gentleman, <hi>Richard Goodenough</hi> Gentleman, Captain <hi>Walcot, William Thomp<g ref="char:EOLhyphen"/>ſon, James Burton,</hi> and <hi>William Hone</hi> Joyner, who, as it is teſtified upon Oath, did moſt Traiterouſly, and Villainouſly deſign the death of his moſt Sacred Majeſty, and not contented with the blood ſucking of a Monarch, ſo matchleſly merciful, did alſo contrive the murther and deſtruction of his Roy<g ref="char:EOLhyphen"/>al Higneſs, <hi>James</hi> Duke of <hi>York.</hi> But being by Divine Providence, inter<g ref="char:EOLhyphen"/>poſe in their wicked deſign, and prevented of the evil hatch'd in the infer<g ref="char:EOLhyphen"/>nal lake, by a happy and timely diſcovery of their dreadful enterprize, they fearing that Juſtice, the continual purſuivant of ſuch inhumane Conſpirators, ſhould overtake, and lay hold of their Rebellious Contrivances, have, for the prevention thereof, abſented their habitations, and abſconded themſelves, which gives a clear and large Demonſtration of their Guilt.</p>
+            <p>And it is very likely, his Majeſty, will, by, and with, the advice of his moſt Honourable Privy Council, iſsue forth a <hi>Proclamation</hi> for the apprehending of the Malefactors above named, that they may be brought to the Bar of Juſtice, to receive the reward due to their Conſpiracies.</p>
+            <p>And theſe perſons ſo diſcovered, and brought to condign puniſhment, I hope may be an Example to all others for the future, to forbear and abhore ſuch bloody Contrivances and inhumane Barbarity, as to Conſpire the death of a Prince, moſt Merciful, Gracious, and Pitiful: but the Malignancy of theſe, and ſuch like Rigicides, cannot, nor will not be forgotten, by any Loyal Sub<g ref="char:EOLhyphen"/>ject, though they may be puniſhed according to the heinouſneſs of the Crime: I wiſh with all my heart it may be the laſt Plot that may ever be conſpired againſt our Soveraign, whoſe mercies are daily manifeſted to many offenders, and whoſe virtues are as much admired, as their impudence wondred at, who do or ſhall ever attempt ſuch enormities, againſt the pattern of Princelie Mo<g ref="char:EOLhyphen"/>narchs.</p>
+            <pb n="2" facs="tcp:109082:2"/>
+            <p>It is much to be minded and obſerved, how graciouſlie God hath been pleaſed to protect and preſerve our Soveraign King from the bold and deſperate at<g ref="char:EOLhyphen"/>tempts of his Conſpireing Enemies, who, wanting Grace and the Fear of God, would audaciouſlie preſume, and venture on the moſt execrable murther <hi>of</hi> the moſt merciful Prince the World could ever boaſt <hi>of.</hi> But if we look back upon the Eye of Providence, we cannot but ſee the great, and particular kindneſs, our moſt bleſsed Creator hath for our moſt Gracious King. what a miraculous preſervation was that at <hi>Worceſter,</hi> when a Prince of the greateſt Splendour in <hi>Europe</hi> was forced by the rebellious (though then prevailing par<g ref="char:EOLhyphen"/>tie) to take up his Lodging in an <hi>Oaken Tree,</hi> only accompanied ſometimes with a few Loyal Nobles, who like worthie Souls, were free to participate of the deplorable ſorrows his Majeſtie then met with? What ſtrange and wonder<g ref="char:EOLhyphen"/>ful deſigns have been ſince, ſeveral times contrived againſt him, whom the Hea<g ref="char:EOLhyphen"/>vens have preſerved: but we may conclude with this Ancient Proverb, <hi>Si De<g ref="char:EOLhyphen"/>us pro nobis quis contra nos?</hi> and it is undoubtedlie true, that he that ſheweth mercie, ſhall alſo find mercie; it hath ſo happened to our Soveraign. And I hope the mercies of the moſt high will ſtill continue to him, and be multiplied more, and more, that our poor Nation, too much divided by Faction, may be bleſsed by the long continuance <hi>of</hi> an unparraleld Monarch, whoſe clemencie is to be amired, whoſe mercie is to be praiſed, and whoſe Enemies hope will be <hi>defeated.</hi> And thoſe that ſhall either attempt, or at leaſt imagine the leaſt harm to his Princelie perſon, may they be utterlie <hi>confounded</hi> in their evil de<g ref="char:EOLhyphen"/>ſigns againſt him: that poor <hi>England</hi> may again Flouriſh as <hi>before,</hi> that hath latelie been incumbred with prodigious Conſpirators, hatching ſuch wicked and helliſh Contrivances, that 'tis a ſhame to all Loyal perſons to reiterate, or rather to harbour in the ſecret Corners <hi>of</hi> their Loyal hearts.</p>
+            <p>And I think no reaſonable perſon can reckon leſs than ſevere puniſhment to be the Portion allotted <hi>for</hi> them: and it is undoubtedlie a dutie incumbent up<g ref="char:EOLhyphen"/>pon all perſons to endeavour <hi>to</hi> make a <hi>diſcovery of</hi> theſe Malefactors, which will be a piece of good Service to the Nation, and unqueſtionablie will be well rewarded by his Majeſtie, who was ever, and wil be ſtill an encourager of well doers, and who can do more for a Prince, then to ſtudie how to detect the Villains that ſhall ſo impudentlie undertake a deſign ſo monſtrous, ſo inhumane, and ſo diabolical? But ſuch is the unreaſonableneſs and ſordid diſpoſition of ſome ill qualified, and ill tempered perſons, that whereas they ſhould be won by the clemencie and favourable kindneſs of an obliging Prince, that they on the contrary, are rather imboldned to preſume to the greateſt hight of impu<g ref="char:EOLhyphen"/>dence that can poſſibly be imagined, and in ſtead of being won to a dutiful obe<g ref="char:EOLhyphen"/>dience, are more and more animated to all kind of miſchief, that the Devil, and an ill Conſcience, can find out, or invent: nor can the affability of an endearing Monarch make any impreſſion on obdure and impenetrable hearts, but they ſtill perſiſt in their beaſtly and rude behaviours, till time and providence, bring them too late to repent, of their unjuſt, and wicked practices.</p>
+            <p>
+               <hi>Here is alſo an undoubted aſſurance of the apprehending of Collonel</hi> John Rum<g ref="char:EOLhyphen"/>ſey <hi>who was ſeized and examined; of which proceedings, we will give you a more perfect account by the next.</hi>
+            </p>
+            <p>Windſor June <hi>the 21st</hi> 1683, <hi>This day the Sheriff, and common Serjeant of</hi> London, <hi>by the expreſs Command of the Lord Mayor, and the Court of Al<g ref="char:EOLhyphen"/>dermen, in purſuance of an Order of Common Council, waited on His moſt gra<g ref="char:EOLhyphen"/>cious Majeſtie, and with all Submiſſion, moſt humbly acquainted him, that the Common Council, had agreed to acquieſce with the Regulations required by His Majesty, and had deferred the Election of Sheriffs, and other Officers, which uſually were choſen on Midſummer-day. until the</hi> 18th <hi>of</hi> July <hi>next.</hi>
+            </p>
+            <p>
+               <hi>So I conclude, with my Prayers for the preſervation of his Majeſty, and his Royal Highneſs, that no Traitor may ever Aſſaſſinate, or ever have power to prejudice their Princely Perſons, and ſo leaving them to the Tuition of the Omnipotent, I con<g ref="char:EOLhyphen"/>clude with a</hi> Vive le Roy, <hi>or long live the King.</hi>
+            </p>
+         </div>
+         <div type="account">
+            <pb n="3" facs="tcp:109082:2"/>
+            <head>AN ACCOUNT Of the Diſcovery of the NEW PLOT, Made manifeſt by ſeveral of the Conſpirators Conveened before His Majeſties moſt Honourable Privy Council at <hi>Hampton Court</hi> on the 23. of this Inſtant <hi>June</hi> 1683.</head>
+            <p>NO Wonder if Sacred Princes, Vice-gerents to the King of kings, are Heavens peculiar care, ſince Wicked Men ſo frequently are Combin'd (with the Powers of Darkneſs, in malice to Him that Inſtituted them by His Eternal Decree to Govern the Inferiour World) do diſturb their Reign, and Conſpire their Hurt; but in vain are all the Machinations and De<g ref="char:EOLhyphen"/>vices of a Turbulent Faction, who ſeek to overthrow the Eſtabliſhed Government; which is Heavens peculiar Care, though like Bulls in <hi>Baſſian,</hi> they have puſhed for ſome years paſt, to overthrow <hi>Great-Britains</hi> Monarchy, yet have their Devices been brought to nought, as appeared by the late Diſcovery, when <hi>Ignoramus</hi> Ju<g ref="char:EOLhyphen"/>ries were brought as <hi>Salvo's,</hi> yet the Eyes of the Nation were too open to be deceiv<g ref="char:EOLhyphen"/>ed with Shaddows, Spectrums, or Fantoms, when apparent Truth preſented her ſelf in her Native ſhape, and much more now, ſince a more then ordinary Diſcove<g ref="char:EOLhyphen"/>ry hath been made by ſuch who were in the Combination against the beſt of Kings, who is indeed, next Heaven, our only Refuge, and the Breath of our Nostrils; a Prince ſo Good, ſo Bounteous, and ſo Juſt, that Heaven thought him only fit to Rule ſo great a People.</p>
+            <p>But to the purpoſe, ſome days ſince, Depoſitions having been made by one <hi>Keel<g ref="char:EOLhyphen"/>ing</hi> (who, as Heaven would have it, was altogether reſtleſs ti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l he had Diſimboged the dire Secret) that a Hell<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſh and Damnable Conſpiracy had for a long time been Brooding, and carried o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by ſeveral of the Diſaffected Party, many of whi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h he Named, and depoſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d likewiſe the ſeveral Circumſtances, ſo far as his Know<g ref="char:EOLhyphen"/>ledge Retained, th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t attended the damnable Conſpiracy, no doubt laid deep to de<g ref="char:EOLhyphen"/>prive true Loyaliſts of all they hold dear on this ſide Heaven; upon which Depoſiti<g ref="char:EOLhyphen"/>on, one Mr. <hi>Weſt,</hi> a Councellor at Law, and one who formerly was Active in the behalf of <hi>Stephen</hi> Colledge, had his Chamber Seized by Order of the Secretary of State, and divers Papers ſecured by the Officers Imployed to that purpoſe, many of which contained matters of dangerous Conſequence, tending to the countenancing Sedition and Rebellion, <hi>&amp;c.</hi> 
+               <g ref="char:V">Ʋ</g>pon notice of which, he, the ſaid Mr. <hi>Weſt,</hi> Coun<g ref="char:EOLhyphen"/>cellor at Law, for ſometime abſconded himſelf; but being moved by the ſence of his unnatural Combination against his Soveraign, he expreſſed a deep, and paſt doubt, an unfeigned ſorrow for his offence, which he diſcovering to his Father in Law, who is doubtleſs a man of unbyaſſed Principles, he adviſed him to throw himſelf at the Feet of that Majeſty, which in ſo high a Nature he offended, but he not daring to approach ſuch Innate Goodneſs, againſt whom he had cauſeleſly conſpired, before his Attonement was in ſome meaſure made, he by his Agents, if not in Perſon, applyed himſelf to the worthy, (and of unqueſtionable Loyalty) Sir <hi>George Jef<g ref="char:EOLhyphen"/>feries</hi> chief juſtice of the Countie Palatine of <hi>Cheſter,</hi> and his Majeſties Serjeant at Law, &amp;c. Humblie beſeeching him to Interceed with His Majeſtie, that Foun<g ref="char:EOLhyphen"/>tain of Mercie, for his Pardon, and confiding in ſuch his Interceſſion, and His Majesties never failing compaſſion, to thoſe that ſincerelie confeſs their Offences, he
+<pb n="4" facs="tcp:109082:3" rendition="simple:additions"/>ſurrendred himſelf into the hands of Juſtice, and this day being the 23d of this In<g ref="char:EOLhyphen"/>ſtant <hi>June,</hi> attended the Honourable Privie Council (for that and other Important conſiderations) Aſſembled at <hi>Hampton Court,</hi> upon Examination he laid open (according to our best information) the Helliſh Conſpirac<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e aga<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſt the Perſon of his moſt Sacred Majeſtie, and his Royal Highneſs, the Illuſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious Prince <hi>James</hi> Duke of <hi>York,</hi> in order to the overthrow of <hi>Monarchy,</hi> and all that can be called dear to Loyal and Peaceful Subjects, in which divers of the d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſaffected had involv<g ref="char:EOLhyphen"/>ed themſelves. I ſhall endeavour to ſhow you the true Narrative of Honourable and Credible Perſons, this Plot was to be Acted (as we hea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) by the Whiggiſh Par<g ref="char:EOLhyphen"/>tie, when the King came from <hi>Newmerkat</hi> laſt and the manner of their attact was this, at <hi>Hodsdeen,</hi> which is betwixt <hi>Newmerca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and <hi>London,</hi> there is a strait paſſage, through which two Coaches cannot paſs at on<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, and Hedged on each ſide, and they for a Stratagem, had deſigned two Carts to meet the Kings Coaches in the Lane, which would undoubtedlie cauſe a ſtop, and w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ilst the King ſto<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ped, they were to unleaden eight or a dozen of Blunderbuſhes in the King and Dukes Coaches, but as the wonderful Providence of God ordered it, His Majeſtie left <hi>Newmercat</hi> ſooner then ordinarie by two Weeks, by reaſon of the violent Fire which happened there at that time: which Conflagration cauſed his Majeſtie and Royal Highneſs to depart, and take their way to <hi>Cambridge:</hi> In this deſign many were Involved as by ſome Papers Seized appears, and upon diſcoverie of which, di<g ref="char:EOLhyphen"/>vers are fled, nor cannot be yet found, divers Meſſengers have been Impowered to apprehend them, and of this pernicious number, <hi>Mr. Goodenough</hi> late under Sheriff for the Citie of <hi>London,</hi> &amp;c. Is ſhrewdly ſuſpected for one, as alſo a Law<g ref="char:EOLhyphen"/>ers Son of note, but till the wiſdom of the Nation (in Council aſſembled) make a further Progreſs in this happie and timely diſcoverie; I ſhall acquieſce, wiſhing that all ſuch, as either in thought or deed attempt the hurt of His most Sacred Ma<g ref="char:EOLhyphen"/>jeſtie, may undergoe the Puniſhment due to the worst of Traytors.</p>
+            <p>HIs Majestie being ſatisfied of the Truth of this Conſpiracie againſt His Sacred Perſon, and the Perſon of his Royal Brother, cauſed His Proclamation to be Iſsued forth, Commanding theſe Conſpirators, <hi>viz.</hi> Collonel <hi>John Rumſie, Richard Rumbal, Richard Nelthrop, Edward Wade, Richard Goodenough,</hi> Captain <hi>Walcot, William Thompſon, James Burton,</hi> and <hi>William Hone,</hi> to render themſelves to his Judges, Juſtices, &amp;c. Strictlie forbidding anie of his Sub<g ref="char:EOLhyphen"/>jects to conceal, harbour, or releave them; and that whoſoever ſhall apprehend anie of them, and put them into the hands of Juſtice, ſhall receive for each ſo apprehend<g ref="char:EOLhyphen"/>ed, One hundred pound as a Reward.</p>
+            <trailer>Entred according to Order.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred Majeſtie, <hi>Anno Dom.</hi> 1683.</p>
+            <pb facs="tcp:109082:3"/>
+         </div>
+      </back>
+   </text>
+</TEI>
